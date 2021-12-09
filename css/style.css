@@ -1,0 +1,16 @@
+.form-inline .form-group {
+	margin-bottom: 20px;
+    float: right;
+}
+
+.headerform {
+	margin-top: 3em;
+}
+
+.status {
+	color: green;
+}
+
+.status2 {
+	color: red;
+}
